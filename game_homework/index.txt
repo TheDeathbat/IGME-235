@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Game Homework Page</title>
+<style>
+    h1 { 
+        color:blue;
+        font-family: serif;
+        border-bottom: 1px solid green;
+        }
+    blockquote { 
+	color:red;
+        background-color: lightgray;
+        padding: 1rem;
+        }
+</style>
+</head>
+
+<body>
+<header><h1>Destiny 2</h1>
+
+<img src="destiny-2-cover.png" alt="Destiny 2 Cover"></header>
+
+<hr>
+<main><h2>Publishing Info</h2>
+
+<ul>
+<li>Published by: Activision Publishing, Inc.</li>
+<li>Developed by: Bungie, LLC</li>
+<li>Released: Sep 06, 2017</li>
+</ul>
+
+<hr>
+<h2>Description</h2>
+
+<p>From the makers of the acclaimed hit game <i>Destiny</i>, comes the much-anticipated sequel. An action shooter that takes you on an epic journey across the solar system.</p>
+
+<ul>
+<li>Rich cinematic story campaign.</li>
+<li>Multiple cooperative game modes for epic, social fun.</li>
+<li>Intense 4v4 competitive multiplayer matches, including 5 different PVP modes.</li>
+<li>Expansive, never-before-seen worlds and spaces to explore.</li>
+<li>Customize your character’s weapons and armor with an all-new array of gear.</li>
+<li>Discover Lost Sectors, complete new Adventure missions, or rally to Public Events with other Guardians.</li>
+<li> Introducing a brand new Guided Games system that helps players find like-minded groups to experience Destiny 2’s most challenging activities, like the Raid.</li>
+
+<hr>
+<h2>Game Categories</h2>
+
+<ul>
+<li>Genre: Action</li>
+<li>Perspective: 1st-person, Behind view</li>
+<li>Pacing: Persistent</li>
+<li>Gameplay: Shooter</li>
+<li>Interface: Direct Control</li>
+<li>Setting: Post-apocalyptic, Sci-fi/futuristic</li>
+</ul>
+
+<hr>
+<h2>Quote</h2>
+
+	<blockquote>At its core, <i>Destiny 2</i> takes everything you loved about the original and cranked it up to <b>11</b>. The graphics are flashier, the sound effects are louder, the content is meatier, and the overall experience is better. Plus, there is a ton of stuff to do after you see the game’s ending credits.
+		<br>-- https://www.mobygames.com/game/xbox-one/destiny-2/mobyrank</blockquote>
+</main>
+<hr>
+<div id="Sources">
+<footer><h3>Source</h3>
+
+<p>https://www.mobygames.com/game/destiny-2<br>https://www.mobygames.com/game/destiny-2/adblurbs</p></footer>
+</div>
+</body>
+</html>

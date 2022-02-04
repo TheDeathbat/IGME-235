@@ -1,0 +1,3 @@
+<img src="images/digdug.png" alt="Dig Dug">
+
+<a href="https://people.rit.edu/ajw5324/game/index.html">Back to main page</a>
